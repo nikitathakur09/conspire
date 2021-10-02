@@ -1,0 +1,10 @@
+.sidebar {
+ width: 20%;
+  align-items: center;
+  cursor: pointer;
+}
+img {
+    display: flex;
+    width: 75%;
+   
+  }
